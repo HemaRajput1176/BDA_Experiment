@@ -1,0 +1,13 @@
+OrderID,Date,Product,Category,Price,Quantity,City
+301,2024-01-04,Printer,Electronics,12000,1,Hyderabad
+302,2024-01-09,Kurti,Clothing,1800,3,Pune
+303,2024-01-15,PowerBank,Electronics,1500,4,Ahmedabad
+304,2024-02-03,Backpack,Accessories,2200,2,Delhi
+305,2024-02-20,Monitor,Electronics,14000,1,Mumbai
+306,2024-03-05,FormalShoes,Footwear,3500,2,Chandigarh
+307,2024-03-22,Printer,Electronics,11500,1,Pune
+308,2024-04-10,Sunglasses,Accessories,900,5,Goa
+309,2024-04-18,Jeans,Clothing,2500,2,Hyderabad
+310,2024-05-02,Keyboard,Electronics,800,6,Delhi
+311,2024-05-14,Sandals,Footwear,1200,3,Ahmedabad
+312,2024-06-01,Monitor,Electronics,14500,1,Mumbai
